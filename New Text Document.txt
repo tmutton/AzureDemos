@@ -16,4 +16,4 @@
 "owner":{"name":"tmutton","email":"tmutton@users.noreply.github.com","login":"tmutton","id":3585741,"avatar_url":"https://avatars2.githubusercontent.com/u/3585741?v=4",
 "gravatar_id":"","url":"https://api.github.com/users/tmutton","html_url":"https://github.com/tmutton","fdfdfd":"https://api.github.com/users/tmutton/followers",
 "following_url":"https://api.github.com/users/tmutton/following{/other_user}","gists_url":"https://api.github.com/users/tmutton/gists{/gist_id}",
-"starred_url":"hgfgffgfgffggfgfgfgfgtfffgftps://api.github.com/users/tmutton/starred{/owner}{/fdfddffddffdfdfdrepo}","subscriptions_url":"fdfdfddfhttfffdfdps://api.gitgfgfgfgffdffdhub.com/usersffd/gfgffg…dssddsfdsfffffggffgfgfgfgf
+"starred_url":"hgfgffgfgffggfgfgfgfgtfffgftps://api.github.com/fddfdfusers/tmutton/starred{/owner}{/fdfddffddffdfdfdrepo}","subscriptions_url":"fdfdfddfhttfffdfdps://api.gitgfgfgfgffdffdhub.com/usersffd/gfgffg…dssddsfdsfffffggffgfgfgfgf
